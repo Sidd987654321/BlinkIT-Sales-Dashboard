@@ -5,8 +5,6 @@ The report provides **comprehensive sales insights, KPIs, and visualizations** t
 
 It showcases how Excel can be used not just for spreadsheets, but as a **powerful tool for analytics and reporting**.
 
----
-
 ## 📖 Project Description
 
 The dashboard was designed to answer key business questions and is structured into four major components:
@@ -25,7 +23,6 @@ The dashboard was designed to answer key business questions and is structured in
 
    * Insights provided to support BlinkIT’s goals for **growth, efficiency, and customer satisfaction**.
 
----
 
 ## 🚀 Key Requirements Implemented
 
@@ -37,14 +34,12 @@ The dashboard was designed to answer key business questions and is structured in
 * **Sales by Outlet Location** → Funnel Map
 * **All Metrics by Outlet Type** → Matrix Card
 
----
 
 ## 📂 Files in this Repository
 
 * `BlinkIT Sales Report.xlsx` → Excel workbook with dataset, pivot tables, charts, and dashboard.
 * `BlinkIT Sales Report.pdf` → Exported version of the dashboard for quick viewing
 
----
 
 ## 🛠️ How to Use
 
@@ -53,7 +48,6 @@ The dashboard was designed to answer key business questions and is structured in
 3. Navigate to the **Dashboard sheet**.
 4. Use slicers and filters to explore interactive insights.
 
----
 
 ## ⚡ Business Value
 
